@@ -1,0 +1,5 @@
+https://www.roytuts.com/python-rest-flask-angularjs-crud/
+
+https://scotch.io/tutorials/build-a-crud-web-app-with-python-and-flask-part-one
+
+]
